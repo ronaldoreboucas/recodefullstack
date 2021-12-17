@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#formas-de-pagamentos {
+    color: red;
+}
+.desconto {
+    color: red;
+}
+
+.menu {
+    background-color: red;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.produtos {
+    border: 10px solid blue;
+    display: inline;
+}
+
+#rodape {
+    text-align: center;
+}
+
+.categorias {
+    display: inline;
+}
